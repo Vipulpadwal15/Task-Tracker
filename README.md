@@ -3,9 +3,18 @@
 [![React 19](https://img.shields.io/badge/React-19.2.8-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8.3.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![CSS3](https://img.shields.io/badge/CSS-Vanilla%20CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Demo-black?logo=vercel&logoColor=white)](https://task-tracker-two-cyan-67.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A modern, responsive, and accessible task management web application engineered for the **JTRONIX Frontend Internship Assessment**. Built from the ground up using **React 19**, **Vite**, and **Vanilla CSS3**, featuring real-time client-side persistence, smooth micro-interactions, dynamic status filtering, and comprehensive validation.
+
+---
+
+## 🌐 Live Demo
+
+Experience the live, interactive production application deployed on Vercel:
+
+👉 **[https://task-tracker-two-cyan-67.vercel.app/](https://task-tracker-two-cyan-67.vercel.app/)**
 
 ---
 
@@ -158,5 +167,6 @@ Task-Tracker/
 ## 👤 Author
 
 **Vipul Padwal**  
-GitHub: [@Vipulpadwal15](https://github.com/Vipulpadwal15)  
-Repository: [Task-Tracker](https://github.com/Vipulpadwal15/Task-Tracker)
+- **Live Demo**: [https://task-tracker-two-cyan-67.vercel.app/](https://task-tracker-two-cyan-67.vercel.app/)  
+- **GitHub**: [@Vipulpadwal15](https://github.com/Vipulpadwal15)  
+- **Repository**: [Task-Tracker](https://github.com/Vipulpadwal15/Task-Tracker)
